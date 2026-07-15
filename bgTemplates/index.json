@@ -10,12 +10,7 @@
       "name": "Celebrations",
       "folder": "Celebrations"
     },
-    {
-      "id": "political",
-      "name": "Political",
-      "folder": "Political"
-    },
-    {
+{
       "id": "religious",
       "name": "Religious",
       "folder": "Religious"
